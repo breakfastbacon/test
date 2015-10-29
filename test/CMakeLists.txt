@@ -1,6 +1,3 @@
-# for target named test
-cmake_policy(SET CMP0037 OLD)
-
 include_directories(${CMAKE_SOURCE_DIR})
 include_directories(${CMAKE_CURRENT_SOURCE_DIR}/bandit)
 include_directories(${CMAKE_CURRENT_SOURCE_DIR})
